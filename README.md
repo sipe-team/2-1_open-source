@@ -10,7 +10,7 @@
 죽을 힘을 다하겠다. - 이수진 - 
 
 ## Key Result
-- Open Source 기여에 대한 리서치
+- Open Source 기여에 대한 리서치 진행 후 docs로 정리
 - PR, issue 남기고 해당 링크 남기기
 - Optional<본인의 open source 제작 후에 자랑하기>
 
